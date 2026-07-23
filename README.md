@@ -126,21 +126,3 @@ Performance was evaluated using:
 
 ---
 
-## Resume Highlights
-
-- Developed an end-to-end machine learning regression system to predict students' mental health scores using demographic, academic, lifestyle, and social media usage features.
-- Built a Scikit-Learn preprocessing pipeline incorporating log transformation, feature scaling, ordinal encoding, one-hot encoding, ColumnTransformer, and Pipeline for automated data preparation.
-- Optimized the Random Forest Regressor using **RandomizedSearchCV** for hyperparameter tuning and compared its performance with Linear Regression using R² Score and Mean Absolute Error (MAE).
-- Performed exploratory data analysis (EDA), feature engineering, feature selection, duplicate detection, and statistical analysis to improve data quality and predictive performance.
-
----
-
-## Repository Name
-
-**Student-Mental-Health-Score-Prediction-ML**
-
----
-
-## Author
-
-Developed as a Machine Learning project demonstrating data preprocessing, feature engineering, regression modeling, hyperparameter optimization, and predictive analytics using Python and Scikit-Learn.
